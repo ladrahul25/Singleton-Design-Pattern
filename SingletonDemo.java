@@ -1,5 +1,3 @@
-package com.identity.rahul.workmanagersample;
-
 public class SingletonDemo {
 
     private volatile static SingletonDemo mSingletonDemo;
